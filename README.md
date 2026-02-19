@@ -17,3 +17,11 @@ MODFLOW-NWT is described in the documentation report by Niswonger and others (20
 ### Report Citation
 
 Niswonger, R.G., Panday, Sorab, and Ibaraki, Motomu, 2011, MODFLOW-NWT, A Newton formulation for MODFLOW-2005: U.S. Geological Survey Techniques and Methods 6-A37, 44 p., https://doi.org/10.3133/tm6A37
+
+## Source
+
+Source code was retrieved from https://water.usgs.gov/water-resources/software/MODFLOW-NWT/MODFLOW-NWT_1.3.0.zip.
+
+## Disclaimer
+
+This repository is provided as a courtesy and is not actively maintained. Modifications to the original source may have been made. Use this resource at your own risk; it should be regarded as provisional and not as an authoritative substitute for the official software release by the original authors.
